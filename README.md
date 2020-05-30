@@ -6,7 +6,7 @@
 「Blueprint Tips30選」  
 [slideshare](https://www.slideshare.net/PaperSloth/blueprint-tips-30)
 
-- その他 友人向けUE4チュートリアル資料 / プロジェクト
+- その他 友人向けUE4チュートリアル資料 / プロジェクト  
 2020/05/31  
 「UE4 3Dゲーム制作入門 その1 : ベースプロジェクト作成編」  
 [Project](https://github.com/PaperSloth/UE4Tutorial)  
