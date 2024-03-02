@@ -12,8 +12,8 @@
 [Project](https://github.com/PaperSloth/UE4Tutorial)  
 [slideshre](https://www.slideshare.net/PaperSloth/ue4-3d-1)  
 
-- Unreal Engine Meetup Connect - Vol.1 - ゲーム開発編
-2024/03/01
-「イスを支える技術」
-動画ファイルが大きくアップロードが困難なためpdfのみ
+- Unreal Engine Meetup Connect - Vol.1 - ゲーム開発編  
+2024/03/01  
+「イスを支える技術」  
+動画ファイルが大きくアップロードが困難なためpdfのみ  
 [event]https://leon-gameworks.connpass.com/event/305752/
