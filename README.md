@@ -16,4 +16,4 @@
 2024/03/01  
 「イスを支える技術」  
 動画ファイルが大きくアップロードが困難なためpdfのみ  
-[event]https://leon-gameworks.connpass.com/event/305752/
+[event](https://leon-gameworks.connpass.com/event/305752/)
